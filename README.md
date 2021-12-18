@@ -21,3 +21,6 @@ print("Nice to meet you")
 
 
 ![image.png](image.png)
+
+# *Lorenzo's Section*
+Domino's > Pizza hut
